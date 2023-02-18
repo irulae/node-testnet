@@ -19,6 +19,10 @@ wget -O wormholes.sh https://raw.githubusercontent.com/dwentz-inc/node-testnet/m
 ```
 wget -O monitor.sh https://raw.githubusercontent.com/dwentz-inc/node-testnet/main/wormholeschain/monitor.sh && chmod +x monitor.sh && ./monitor.sh
 ```
+### Exit Monitoring
+```
+CTRL + C
+```
 ### Next ? Become A Validator
 ` membutuhkan 70k ERB untuk menjadi validator `
 
