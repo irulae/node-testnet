@@ -7,7 +7,10 @@ NODE  | CPU     | RAM      | SSD     |
 | ------------- | ------------- | ------------- | -------- |
 | Testnet | 4          | 8         | 120  |
 
-
+### install wget
+```
+apt install wget 
+```
 ### Auto install
 ```
 wget -O wormholes.sh https://raw.githubusercontent.com/dwentz-inc/node-testnet/main/wormholeschain/wormholes.sh && chmod +x wormholes.sh && ./wormholes.sh
